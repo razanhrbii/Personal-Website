@@ -1,4 +1,4 @@
-# Personal-Website
+# Personal Website
 
 simple website for my personal information
 This is a simple personal website created as part of Smart Methods training.
